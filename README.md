@@ -43,16 +43,6 @@ Topic-based exam practice platform mapping syllabus topics to past-exam question
 
 ---
 
-## Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Inventory Department Lead | Lindo \| chain | 2021 – 2026 |
-| Maintenance Operations Center | DOMA | 2020 – 2021 |
-| Master Sergeant Engineer | Israeli Navy (Anti-Submarine Missile Ship) | 2016 – 2020 |
-
----
-
 ## Education
 
 - **B.Sc. Software Engineering** – Afeka Tel-Aviv (2022–2026)  
