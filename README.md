@@ -43,6 +43,7 @@ Topic-based exam practice platform mapping syllabus topics to past-exam question
 
 ---
 
+
 ## Education
 
 - **B.Sc. Software Engineering** – Afeka Tel-Aviv (2022–2026)  
@@ -61,8 +62,7 @@ Topic-based exam practice platform mapping syllabus topics to past-exam question
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vlad--pav-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vlad-pav/)  
-📧 thevlamax@gmail.com  
-📱 052-486-3643
+📧 thevlamax@gmail.com
 
 ---
 
