@@ -35,8 +35,12 @@ Research project reproducing experiments on domain shift between lab imagery (Pl
 *Tech: PyTorch, torchvision, timm, scikit-learn* · [View on GitHub →](https://github.com/keronell/PLANT_LEAF_DISEASE_DETECTION)
 
 ### Object Detection Pipeline *(2025)*
-Custom object-detection project: auto-generated labeled dataset from Flickr, trained a model to detect people and pets. Used Florence-2 for annotations, YOLO for training.  
-*Tech: PyTorch, Florence-2, YOLO*
+End-to-end pipeline combining Florence-2 zero-shot detection with YOLOv8 training for person and pet classes (dog, cat, horse). Covers dataset creation from Flickr30k, annotation filtering, augmentation, training, and evaluation with mAP.  
+*Tech: PyTorch, Florence-2, YOLOv8* · [View on GitHub →](https://github.com/keronell/Computer-Vision-Object-detection-project)
+
+### Space Control System *(C)*
+A C application for managing celestial bodies, space agencies, and expeditions. Users can catalog astronomical objects (stars, planets, asteroids), create agencies, and plan missions. Uses modular design with generic linked lists, date validation, and file persistence.  
+*Tech: C, CMake* · [View on GitHub →](https://github.com/keronell/Final_C_Project)
 
 ### TestGuru – 2nd Place Hackathon *(2024)*
 Topic-based exam practice platform mapping syllabus topics to past-exam questions. Tracks performance stats and simulates real exam conditions.  
