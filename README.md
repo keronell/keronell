@@ -30,7 +30,7 @@ I'm a Software Engineering student at Afeka Tel-Aviv, majoring in **Machine Lear
 Career matching platform that recommends tech roles based on an adaptive questionnaire, skills profile, and role/skill ontology. Implemented a neural-network matching model for role-fit scores.  
 *Tech: Python, NLP/Embeddings, FastAPI, PostgreSQL, React/Next.js*
 
-### Plant Leaf Disease Detection – Domain Adaptation *(Lab-to-Field Generalization)*
+### Plant Leaf Disease Detection – Domain Adaptation *(2025)*
 Research project reproducing experiments on domain shift between lab imagery (PlantVillage) and field imagery (Plant_doc, FieldPlant). Evaluates supervised domain adaptation and teacher–student pseudo-labeling. Code for article *"Improving generalization of deep learning models for plant leaf disease detection"* (Pavliyuk & Shershnev).  
 *Tech: PyTorch, torchvision, timm, scikit-learn* · [View on GitHub →](https://github.com/keronell/PLANT_LEAF_DISEASE_DETECTION)
 
@@ -38,7 +38,7 @@ Research project reproducing experiments on domain shift between lab imagery (Pl
 End-to-end pipeline combining Florence-2 zero-shot detection with YOLOv8 training for person and pet classes (dog, cat, horse). Covers dataset creation from Flickr30k, annotation filtering, augmentation, training, and evaluation with mAP.  
 *Tech: PyTorch, Florence-2, YOLOv8* · [View on GitHub →](https://github.com/keronell/Computer-Vision-Object-detection-project)
 
-### Space Control System *(C)*
+### Space Control System *(C)* *(2024)*
 A C application for managing celestial bodies, space agencies, and expeditions. Users can catalog astronomical objects (stars, planets, asteroids), create agencies, and plan missions. Uses modular design with generic linked lists, date validation, and file persistence.  
 *Tech: C, CMake* · [View on GitHub →](https://github.com/keronell/Final_C_Project)
 
