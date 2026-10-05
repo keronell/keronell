@@ -62,7 +62,8 @@ A platform that recommends technology roles using adaptive questionnaires, skill
 - Modeled non-linear relationships between users, skills, and potential roles.
 - Designed the platform to support personalized, data-driven career recommendations.
 
-**Technologies:** Python · Machine Learning · FastAPI · PostgreSQL · React · Next.js
+**Technologies:** Python · Machine Learning · FastAPI · PostgreSQL · React · Next.js  
+[View project →](https://github.com/keronell/Next_step_FP)
 
 ### Object Detection Pipeline
 
