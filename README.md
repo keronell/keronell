@@ -1,140 +1,159 @@
-# Hi, I'm Vladislav Pavlyuk
+# Hi, I'm Vladislav (Vlad) Pavlyuk
 
-**Software Engineer | Machine Learning & Computer Vision**
+**Software Engineer | Machine Learning & Computer Vision | AI Applications**
 
-B.Sc. in Software Engineering, specializing in Machine Learning and Artificial Intelligence  
-📍 Petah Tikva, Israel
+Software Engineering graduate with experience across AI, backend, full-stack, and embedded projects.
+
+Petah Tikva, Israel
 
 [LinkedIn](https://www.linkedin.com/in/vlad-pav/) · [GitHub](https://github.com/keronell) · [Email](mailto:thevlamax@gmail.com)
-
----
 
 ## About Me
 
 I'm a Software Engineering graduate from Afeka Tel Aviv Academic College of Engineering, specializing in **Machine Learning and Artificial Intelligence**.
 
-I have hands-on experience as a **Junior Machine Learning Engineer Intern**, where I built data-preparation and model-training pipelines in PyTorch. My project experience includes computer vision, object detection, automated annotation, neural-network matching models, and full-stack AI applications.
+My work includes training computer vision models, building LLM classification workflows, developing backend services, and connecting web interfaces to AI-powered features.
 
-I'm currently looking for junior opportunities in:
+I also hold a **Practical Engineer Diploma in Mechanical Engineering** and have hands-on technical experience from the Israeli Navy. This background complements my interest in embedded programming and hardware–software integration.
 
-- Machine Learning and Deep Learning
-- Computer Vision
-- Applied AI and AI integration
-- Python backend and AI-focused software engineering
+My primary interests are **Machine Learning and Computer Vision**, and I'm also open to junior opportunities in:
 
----
+- **AI Engineering & LLM Applications**
+- **Backend & Software Engineering**
+- **Full-Stack Development**
+- **Embedded Software & Hardware–Software Integration**
 
 ## Experience
 
-### Junior Machine Learning Engineer Intern — StarperSoft
+### Junior ML Engineer Intern - StarperSoft
+*2025–Present*
 
-*2025–2026*
+- Developed a local LLM classification workflow that extracts category, urgency, and sentiment from unstructured text.
+- Implemented schema-validated outputs, confidence-based routing, and human-in-the-loop escalation.
+- Packaged the workflow and built mock-based tests to verify its behavior.
 
-- Built data-preparation and model-training pipelines using PyTorch.
-- Supported experimentation, model evaluation, and iterative improvement cycles.
-- Worked with practical ML development workflows from data preparation through evaluation.
+### Technical & Leadership Background
 
----
+**Israeli Navy | 2016–2020**
+
+Maintained and troubleshot mechanical systems aboard an anti-submarine missile ship. Led mechanical operations, emergency readiness, and crew training.
+
+**Chain Inventory Department Lead - Lindo | 2021–Present**
+
+Lead inventory operations, shipment verification, and stock reconciliation using Comax.
 
 ## Technical Skills
 
-**Programming:** Python · Java · C · Bash · SQL
+**Programming:** Python · C · Java · JavaScript · TypeScript · SQL · Bash
 
-**Machine Learning:** PyTorch · TensorFlow · scikit-learn · CNNs · Transformers · Vision Transformers · Fine-tuning · Model Training · Model Evaluation · Weights & Biases
+### Machine Learning & Computer Vision
+PyTorch · TensorFlow · scikit-learn · CNNs · Transformers · Vision Transformers · OpenCV · YOLO · Fine-tuning · Data Augmentation · Automated Annotation · Model Evaluation · Weights & Biases
 
-**Computer Vision:** OpenCV · YOLO · Object Detection · Image Segmentation · Data Augmentation · Annotation Pipelines
+### AI Engineering & LLM Applications
+LLM Integration · Structured Outputs · Schema Validation · Classification Agents · Human-in-the-Loop Workflows · Sentence Transformers · Semantic Search · ChromaDB
 
-**Backend & Web:** FastAPI · REST APIs · React · Next.js
+### Backend & Software Engineering
+FastAPI · REST APIs · Microservices · Redis · RabbitMQ · Dapr Pub/Sub · PostgreSQL · MongoDB · Object-Oriented Programming · Concurrency
 
-**Databases & Tools:** PostgreSQL · MongoDB · Git · Docker · Linux · PyTest · JUnit · Jira
+### Full-Stack Development
+React · Next.js · Node.js · Express.js · HTML · CSS · Tailwind CSS · JWT Authentication · Mongoose · External API Integration
 
----
+### Embedded & Systems Programming
+STM32 · GPIO · Timers · Interrupts · ADC · UART · LCD Interfacing · Processes & Threads · Shared Memory · Mutex Synchronization
+
+**Tools & Testing:** Git · Docker · Linux · PyTest · JUnit · GitHub Actions  
+**Data:** NumPy · Pandas
 
 ## Featured Projects
 
-### The Next Step — Career-Matching Platform
-
-*2025–2026*
-
-A platform that recommends technology roles using adaptive questionnaires, skills profiles, and a structured role-skill ontology.
-
-- Implemented and evaluated a neural-network model that calculates role-fit scores.
-- Modeled non-linear relationships between users, skills, and potential roles.
-- Designed the platform to support personalized, data-driven career recommendations.
-
-**Technologies:** Python · Machine Learning · FastAPI · PostgreSQL · React · Next.js  
-[View project →](https://github.com/keronell/Next_step_FP)
-
 ### Object Detection Pipeline
+*Machine Learning & Computer Vision*
 
-*2025*
+- Built an automated annotation pipeline using **Florence-2** to generate bounding-box labels for Flickr images.
+- Trained and evaluated **YOLO** detectors using generated annotations and measured detection performance with **mAP**.
 
-An end-to-end computer-vision pipeline for detecting people and animals using automatically generated training data.
+**Technologies:** Python · PyTorch · Florence-2 · YOLO
 
-- Used Florence-2 to generate bounding-box annotations from Flickr images.
-- Built filtering, augmentation, training, and evaluation stages.
-- Trained and evaluated an object-detection model using mAP.
-
-**Technologies:** PyTorch · Florence-2 · YOLOv8 · Computer Vision  
-[View project →](https://github.com/keronell/Computer-Vision-Object-detection-project)
+[View repository](https://github.com/keronell/Computer-Vision-Object-detection-project)
 
 ### Plant Leaf Disease Detection
+*Machine Learning & Computer Vision*
 
-*2025*
+- Investigated domain shift between controlled laboratory images and real-world field images.
+- Evaluated **EfficientNet-B0 and Vision Transformer** models using PlantVillage, PlantDoc, and FieldPlant.
+- Explored field-data fine-tuning, augmentation, and teacher–student pseudo-labeling, measuring performance with **macro-F1**.
 
-A research project investigating domain shift between controlled laboratory images and real-world field images.
+**Technologies:** PyTorch · torchvision · timm · scikit-learn
 
-- Evaluated supervised domain adaptation and teacher-student pseudo-labeling.
-- Worked with PlantVillage, PlantDoc, and FieldPlant datasets.
-- Focused on improving model generalization outside controlled environments.
+[View repository](https://github.com/keronell/PLANT_LEAF_DISEASE_DETECTION)
 
-**Technologies:** PyTorch · torchvision · timm · scikit-learn  
-[View project →](https://github.com/keronell/PLANT_LEAF_DISEASE_DETECTION)
+### The Next Step - Career Guidance Platform
+*Machine Learning · Backend · Full-Stack*
 
-### TestGuru — 2nd Place, College Hackathon
+A platform that connects adaptive questionnaires with ranked career recommendations and personalized roadmaps.
 
-*2024*
+- Developed a **PyTorch neural network ensemble** using questionnaire, semantic similarity, and skill-overlap features.
+- Integrated **Sentence Transformers and ChromaDB** for embedding-based retrieval and matching.
+- Built **FastAPI services** and connected them to a **React/Next.js interface**.
+- Used **Redis and Dapr Pub/Sub** for questionnaire events, user history, and roadmap progress.
 
-An exam-practice platform that maps syllabus topics to previous exam questions.
+**Technologies:** Python · PyTorch · FastAPI · React · Next.js · ChromaDB · Redis · Dapr
 
-- Created topic-based practice and exam-simulation workflows.
-- Added performance analytics to identify weak areas and support targeted study.
+[View repository](https://github.com/keronell/Next_step_FP)
 
-### Space Control System
+### ApprovalFlow - Invoice & Expense Approval Platform
+*AI Applications · Backend · Full-Stack*
 
-*2024*
+- Built **FastAPI microservices** and a **React interface** for invoice submission, approval queues, and status tracking.
+- Integrated AI-assisted decisions with deterministic routing and human review.
+- Implemented duplicate detection and payment workflows with compensating actions.
+- Configured automated testing and Docker-based CI/CD.
 
-A modular C application for managing celestial bodies, space agencies, and expeditions.
+**Technologies:** Python · FastAPI · React · Dapr · RabbitMQ · Redis · Docker · GitHub Actions
 
-**Technologies:** C · CMake · Generic Linked Lists · File Persistence  
-[View project →](https://github.com/keronell/Final_C_Project)
+### AI Travel Planner
+*Full-Stack Development*
 
----
+- Built a **Next.js/React application** for AI-generated itineraries, interactive maps, and weather forecasts.
+- Implemented **Express.js authentication** with JWT, password hashing, and refresh tokens.
+- Integrated routing and weather APIs, with **MongoDB** storage for saved itineraries and travel history.
+
+**Technologies:** TypeScript · React · Next.js · Express.js · MongoDB · Leaflet
+
+[View repository](https://github.com/keronell/web_final_project)
+
+### STM32 Stopwatch
+*Embedded Software & Hardware–Software Integration*
+
+- Developed a **C-based stopwatch on STM32** with timer-driven timekeeping, pause/resume controls, and lap recording.
+- Integrated an **ADC keypad and LCD interface**, with UART output for lap times.
+- Implemented interrupt-driven UART reception and button handling.
+
+**Technologies:** C · STM32 · GPIO · ADC · UART · Timers · Interrupts
+
+## Additional Projects
+
+- **TestGuru - 2nd Place, College Hackathon:** Collaborated on an exam-practice platform with topic-based questions and performance analytics.
+- **Parallel Computing:** Implemented computations using MPI, OpenMP, and CUDA, including a GPU dot-product implementation.
+- **[Space Control System](https://github.com/keronell/Final_C_Project):** Built a modular C application for managing celestial bodies, space agencies, and expeditions.
 
 ## Education
 
 **B.Sc. in Software Engineering**  
-Afeka Tel Aviv Academic College of Engineering · 2022–2026
+Afeka Tel Aviv Academic College of Engineering · 2023–2026  
+Specialization: Machine Learning & Artificial Intelligence
 
-**Specialization:** Machine Learning and Artificial Intelligence
+**Practical Engineer Diploma in Mechanical Engineering**  
+Shimon Peres Hi-Tech & Arts School (Shevach-Mofet)
 
-**Relevant coursework:** Computer Vision · Deep Learning Networks · Advanced Algorithms · Data Structures · Parallel Computing
-
----
+**Relevant coursework:** Computer Vision · Deep Learning · Advanced Algorithms · Data Structures · Operating Systems · Parallel Computing · Embedded Systems · Web Development
 
 ## Languages
 
-- Hebrew — Native
-- Russian — Native
-- Ukrainian — Native
-- English — Professional proficiency
+Hebrew - Native · Russian - Native · Ukrainian - Advanced · English - Professional proficiency
 
----
+## Let's Connect
 
-## Contact
+I'm looking for a junior engineering role where I can contribute, learn from experienced teammates, and take ownership of practical software problems.
 
-- [LinkedIn](https://www.linkedin.com/in/vlad-pav/)
-- [Email](mailto:thevlamax@gmail.com)
-- [GitHub](https://github.com/keronell)
-
-*Open to junior opportunities in Machine Learning, Computer Vision, Applied AI, and software development.*
+[LinkedIn](https://www.linkedin.com/in/vlad-pav/) · [Email](mailto:thevlamax@gmail.com)
